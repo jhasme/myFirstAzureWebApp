@@ -37,7 +37,7 @@
 <body>
     <div class="container">
         <div class="hello-world">
-            Hello, World! This is my first Azure Web App.
+            Hello, World! This is my first Web App deployed to Azure Cloud.
         </div>
     </div>
 </body>
